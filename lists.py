@@ -15,7 +15,8 @@ stuff.pop()
 #(POP)removes the last element
 
 #stuff.clear()
-#(CLEAR)duh, clears the 
+#(CLEAR)duh, clears the list
 
 for things in stuff:
+
     print(things)
